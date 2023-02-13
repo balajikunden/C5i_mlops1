@@ -12,3 +12,5 @@ matplotlib
 boto3
 dvc
 jupyterlab
+argparse
+scikit-learn
